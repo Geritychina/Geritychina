@@ -11,7 +11,7 @@ and more.. :smiley:
 <br>
 
 :watermelon:  Watermelon maniac <br>
-:book: Explorer of every new knowledge <br>
+:book: Explorer of  new knowledge <br>
 :dog:Animal lover:panda_face:
 
 
