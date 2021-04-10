@@ -12,7 +12,7 @@ and more.. :smiley:
 
 :watermelon:  Watermelon maniac <br>
 :book: Explorer of  new knowledge <br>
-:dog:Animal lover:panda_face:
+:dog: Animal lover :panda_face:
 
 
 
