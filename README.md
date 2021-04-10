@@ -1,4 +1,4 @@
-### Hello! My name is Gergana Varbanova
+### Hello! My name is Gergana Varbanova 👩
 ## I'am Chinese Expert :cn: Software Engineer :computer:
 :dart: Focusing on web development <br>
 My knowledge of programming languages: <br>
