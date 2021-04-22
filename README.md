@@ -1,5 +1,5 @@
 ### Hello! My name is Gergana Varbanova 👩
-## I'am Chinese Expert 🇨🇳 & Software Engineer :computer:
+## I'am Chinese Expert :🇨🇳: & Software Engineer :computer:
 :dart: Focusing on web development <br>
  📌 My knowledge of programming languages: <br>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
