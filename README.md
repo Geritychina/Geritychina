@@ -11,7 +11,8 @@ and more... :octocat:
 <br>
 
 :watermelon:  Watermelon maniac 🍉 <br>
-:book: Explorer of  new knowledge <br>
+📘 Book Reader 📘 <br>
+:book: Explorer of new knowledge <br>
 :dog: Animal lover :panda_face:
 
 
