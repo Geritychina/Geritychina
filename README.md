@@ -1,6 +1,6 @@
 ### Hello! My name is Gergana Varbanova 👩
 ## I'am Chinese Expert 🇨🇳 & Software Engineer :computer:
-:dart: Focusing on web development <br>
+:dart: Focusing on web development aka Front-End <br>
 
 :watermelon:  Watermelon maniac 🍉 <br>
 
