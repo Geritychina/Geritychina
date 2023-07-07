@@ -1,5 +1,5 @@
 ### Hello! My name is Gergana Varbanova 👩
-## I'am Chinese Expert 🇨🇳 and R&D Front-end Developer :computer:
+## I'am Chinese Linguist 🇨🇳 and R&D Front-end Developer :computer:
 :dart: Focusing on web development -> Front-End <br>
 
 :watermelon:  Watermelon maniac 🍉 <br>
