@@ -1,6 +1,6 @@
 ### Hello! My name is Gergana Varbanova 👩
 ## I'am World First Chinese specialist 🇨🇳 & R&D Junior Front-End Developer 👩‍💻
-:dart: Focusing on web development -> Front-End <br>
+:dart: Focusing on Full-Stack Development!
 
 :watermelon:  Watermelon maniac 🍉 <br>
 
