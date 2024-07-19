@@ -1,6 +1,6 @@
 ### Hello! My name is Gergana Varbanova 👩
 ## I'am 葛尔佳 
-Asian Specialist 🇨🇳 & R&D Junior Front-End Developer 👩‍💻 <br>
+Asian Specialist 🇨🇳 & R&D  Front-End Developer 👩‍💻 <br>
 🎯 Focusing on Full-Stack Development & Artificial Intelligence 🦾
 
 :watermelon:  Watermelon maniac 🍉 <br>
