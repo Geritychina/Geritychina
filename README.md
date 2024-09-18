@@ -4,7 +4,7 @@ Asian Specialist 🇨🇳 & R&D  Front-End Developer 👩‍💻 <br>
 🎯 Focusing on Full-Stack Development & Artificial Intelligence 🦾
 
 Technological Stack:<br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,bootstrap,cs,dotnet,jenkins,npm,postman,react,redux,py,sublime,visualstudio,vscode,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,bootstrap,cs,dotnet,jenkins,npm,postman,react,redux,py,sublime,visualstudio,vscode,wordpress,jira)](https://skillicons.dev)
 
 :watermelon:  Watermelon maniac 🍉 <br>
 
