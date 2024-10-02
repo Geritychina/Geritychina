@@ -10,9 +10,9 @@ Technological Skills Stack:<br>
 
 📘 Book Reader 📘 <br>
 
-:book: Explorer of new knowledge <br>
+:book: Explorer of New Knowledge <br>
 
-:dog: Animal lover :panda_face:
+:dog: Animal Lover :panda_face:
 
 
 
