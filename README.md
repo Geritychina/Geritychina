@@ -23,19 +23,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-- 💃 **[Galans Dance](https://github.com/Geritychina/GalansDance)**  
-  A website for a dance and life coaching academy built using Blogger and WordPress.
-
-- 📊 **[BalanceCheck](https://github.com/Geritychina/BalanceCheck)**  
-  A personal finance app to track income and expenses with a user-friendly UI.
-
-- 🧩 **[Contributor to Automq](https://github.com/AutoMQ/automq-for-kafka)**  
-  Contributing to scalable messaging systems with [AutoMQ for Kafka](https://github.com/AutoMQ/automq-for-kafka).
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
