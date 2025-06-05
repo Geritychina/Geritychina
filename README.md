@@ -19,7 +19,7 @@
 - **Frontend**: React, Redux, HTML5, CSS3, Bootstrap  
 - **Backend/Platform**: .NET, Node.js, Jenkins  
 - **Tools**: Git, GitHub, VS Code, Visual Studio, Sublime, Postman  
-- **CMS**: WordPress, Blogger
+- **CMS**: WordPress, Blogger, Wix
 
 ---
 
