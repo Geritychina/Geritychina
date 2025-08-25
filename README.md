@@ -3,7 +3,7 @@
 💡 Full-stack developer & **Artificial Intelligence enthusiast**  
 💻 Passionate about writing clean, efficient code and creating impactful digital experiences.  
 📚 Linguistic specialist in **Chinese**, **Russian**, and **English**, with an academic focus in **Sinology**.  
-🌱 Open-source contributor and continuous learner in software engineering, AI, and UI/UX.
+🌱 Open-source contributor and continuous learner in software engineering, AI, and more.
 
 ---
 
