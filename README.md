@@ -25,8 +25,6 @@
 
 
 ## 📬 Let’s Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/geritychina/)
 - 💻 [GitHub](https://github.com/Geritychina)
 
 > _"Building with purpose. Learning with passion."_ 🤖✨
