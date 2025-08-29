@@ -26,6 +26,7 @@
 
 ## 📬 Let’s Connect
 - 💻 [GitHub](https://github.com/Geritychina)
+- 🌐 [SinaHub](sinahub.wordpress.com)
 
 > _"Building with purpose. Learning with passion."_ 🤖✨
 
