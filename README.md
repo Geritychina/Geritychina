@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Gergana (Geritychina)葛尔佳 
 
-💡 Full-stack developer & **Artificial Intelligence enthusiast**  
+💡  Junior Software Engineer & **Artificial Intelligence enthusiast**  
 💻 Passionate about writing clean, efficient code and creating impactful digital experiences.  
 📚 Linguistic specialist in **Chinese**, **English**, with an academic focus in **Sinology**.  
-🌱 Open-source contributor and continuous learner in software engineering, AI, and more.
+🌱 Open-source contributor and continuous learner in software engineering, AI, cybersecurity and more.
 
 ---
 
@@ -20,6 +20,7 @@
 - **Backend/Platform**: .NET, Node.js, Jenkins  
 - **Tools**: Git, GitHub, VS Code, Visual Studio, Sublime, Postman  
 - **CMS**: WordPress, Blogger, Wix
+- **Microsoft Tools**
 
 ---
 
