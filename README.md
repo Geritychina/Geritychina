@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gergana (Geritychina)葛尔佳 
 
-💡  Junior Software Engineer & **Artificial Intelligence enthusiast**  
+💡  Junior Conceptual Software Engineer & **Artificial Intelligence enthusiast**  
 💻 Passionate about writing clean, efficient code and creating impactful digital experiences.  
 📚 Linguistic specialist in **Chinese**, **English** and **Russian**, with an focus in **Chinese Language and Culture**.  
 🌱 Open-source contributor and continuous learner in software engineering, AI, cybersecurity and more.
