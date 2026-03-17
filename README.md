@@ -19,7 +19,7 @@
 - **Frontend**: React, Redux, HTML5, CSS3, Bootstrap  
 - **Backend/Platform**: .NET, Node.js, Jenkins  
 - **Tools**: Git, GitHub, VS Code, Visual Studio, Sublime, Postman  
-- **CMS**: WordPress, Blogger
+- **CMS**: WordPress, Blogger, Medium
 - **Microsoft Tools**
 
 ---
@@ -27,7 +27,8 @@
 
 ## 📬 Let’s Connect
 - 💻 [GitHub](https://github.com/Geritychina)
-- 🌐 [SinaHub](https://www.facebook.com/SinaHub1)  
+- 🌐 [SinaHub](https://www.facebook.com/SinaHub1)
+- 📜 [Medium](https://medium.com/@gerity59)
 
 > _"Building with purpose. Learning with passion."_ 🤖✨
 
