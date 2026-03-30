@@ -26,7 +26,6 @@
 
 
 ## 📬 Let’s Connect
-- 💻 [GitHub](https://github.com/Geritychina)
 - 🌐 [SinaHub](https://www.facebook.com/SinaHub1)
 - 📜 [Medium](https://medium.com/@sinahub)
 
