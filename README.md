@@ -21,7 +21,7 @@
 - **Tools**: Git, GitHub, VS Code, Visual Studio, Sublime, Postman  
 - **CMS**: WordPress, Blogger, Medium
 - **Microsoft Tools**
-- **AI Tools**
+- **AI & Agentic Tools**
 
 ---
 
