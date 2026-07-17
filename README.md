@@ -28,7 +28,7 @@
 
 ## 📬 Let’s Connect
 - 🌐 [SinaHub](https://www.facebook.com/SinaHub1)
-- 📜 [Medium](https://medium.com/@sinahub)
+- 📜 [Linkedin](https://www.linkedin.com/in/gergana-varbanova-sinahub/)
 
 > _"Building with purpose. Learning with passion."_ 🤖✨
 
