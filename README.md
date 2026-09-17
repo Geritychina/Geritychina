@@ -1,9 +1,13 @@
 # 👋 Hi, I'm Gergana (Geritychina)葛尔佳 
 
-💡  Junior Conceptual Software Engineer & **Artificial Intelligence enthusiast**  
-💻 Passionate about writing clean, efficient code and creating impactful digital experiences.  
-📚 Linguistic specialist in **Chinese**, **English** and **Russian**, with an focus in **Chinese Language and Culture**.  
-🌱 Open-source contributor and continuous learner in software engineering, AI, cybersecurity and more.
+💡 Founder of SinaHub | Software Engineer & AI Enthusiast </br>
+💻 Building clean, efficient code and impactful digital experiences.  </br>
+🤖 Focused on Artificial Intelligence, LLMs, digital innovation, and technology transfer.  </br>
+📚 Linguistic specialist in Chinese, English, and Russian – with a deep focus on Chinese Language and Culture.  </br>
+🌱 Open-source contributor and continuous learner in software engineering, AI, cybersecurity, and more.  </br>
+🌉 Speaker at the China–CEEC Innovation Cooperation Think Tank Roundtable (2026).  </br>
+🔗 Bridging China and CEE through AI, technology transfer, and science communication.  </br>
+🚀 Always building. Always learning.  </br>
 
 ---
 
